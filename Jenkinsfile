@@ -4,7 +4,7 @@ pipeline {
 
     environment {
         NAMESPACE = 'default'
-        GITHUB_REPO = 'https://github.com/444-debug/r-9.git'
+        GITHUB_REPO = 'https://github.com/DominicAllen444-debug/r-9.git/'
     }
 
     stages {
